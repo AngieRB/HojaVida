@@ -1,0 +1,74 @@
+header{
+    color: #0f0f0f;
+    backdrop-filter: blur(10px);
+    border: 3px solid #f4f4f4;
+    border-radius: 50px;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 10px;   
+}
+.fondo{
+    height: 100vh;
+    width: 100vw;
+    background: url(Foto/Fondo.jpg) center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;  
+}
+.title{
+    text-align: center;
+    height: 100px;
+    color: #0c0c0c;
+}
+.cuadros{
+    height: 300px;
+    width: 300px;
+}
+p{
+    font-size: 1.2rem;
+    color: #faf0f0;
+}
+.Card{
+    backdrop-filter: blur(5px);
+    text-align: center;
+    border-radius: 50px;
+    height: 450px;
+    width: 250x;
+    border: 3px solid #580d03;
+    margin-bottom: 5px;
+}
+.ref{
+    border: 3px solid #faf2f2;
+    backdrop-filter: blur(10px);
+    border-radius: 10px ;
+    height: 55%;
+    width: auto;
+}
+.tabla{
+    border: 3px solid rgb(39, 5, 33);
+    background-color: rgb(238, 174, 222);
+    border-radius:10px;
+    height: auto;
+    width: auto;
+    align-items: center;
+}
+.tabla2{
+    border: 3px solid rgb(255, 255, 255);
+    background-color: rgb(143, 130, 130);
+    border-radius:10px;
+    height: auto;
+    width: auto;
+    align-items: center;
+}
+.centrar{
+    margin: 0 auto;
+}
+.imagen{
+    width: 300px;
+    height: 300px;
+    position: absolute 300px;
+    border-radius: 50px;
+}
+
+
+ 
